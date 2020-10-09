@@ -1,1 +1,1 @@
-# Radio-Kvb - my first developed web
+# Radio-Kvb - my first project
